@@ -1,0 +1,12 @@
+/* 
+ * The purpose of this css file is basically to swap out the orange color for
+ * red.
+ */
+
+h1, .orange-text, #skillsH3 {
+	color: #F53C24;
+}
+
+.orange {
+	background-color: #F53C24;
+}
